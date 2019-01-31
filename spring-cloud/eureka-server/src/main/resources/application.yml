@@ -1,0 +1,12 @@
+info:
+  component: Eureka Server Discovery
+  
+spring:
+  application:
+    name: eureka-server
+
+
+
+
+server:
+  port: 9091
